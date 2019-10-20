@@ -10,7 +10,7 @@
     "http://*/*",
     "webNavigation",
     "https://*/*"
-  ],  "options_page": "options.html",
+  ],  "options_page": "manager.html",
   "background": {
     "scripts": ["background.js"],
     "persistent": true
